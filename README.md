@@ -13,7 +13,8 @@ Country Explorer is a web application that allows users to explore countries aro
 
 ### Screenshot
 
-![desktop-design-home-light](https://github.com/gauyash/country-explorer/assets/96402498/aa54f213-deee-4b4a-8c9b-8efc0d4ff1ef)
+![desktop-design-home-light](https://github.com/gauyash/country-explorer/assets/96402498/bfeb9c11-e74f-45a5-a1fa-7cd89e4e6818)
+
 
 
 ### Links
