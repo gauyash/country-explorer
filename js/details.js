@@ -18,8 +18,8 @@ const getAPI = async (url) => {
 const showDetails = async () => {
   let detail = document.querySelector(".detail");
   let name = localStorage.getItem("name");
-  const data = await getAPI(`https://restcountries.com/v3.1/name/${name}`);
-
+  const data = await getAPI(`https://restcountries.com/v3.1/name/${name}?fullText=true`);
+  console.log(data);
   const fragment = document.createDocumentFragment();
   data.forEach((items) => {
     const {
